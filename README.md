@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Nouri AKA Ophanim
+# Hi there, I'm Mohamed Nouri!
 
 Full-Stack Developer | Security Researcher | Indie Game Dev
 
